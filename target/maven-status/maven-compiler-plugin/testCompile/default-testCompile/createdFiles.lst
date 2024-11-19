@@ -1,0 +1,15 @@
+org\appiumProject\TestUtils\AppiumBaseTest2.class
+org\AppiumTestCases\eCommerce_TC3_SumITems.class
+org\AppiumTestCases\eCommerce_TC5_withDataprovider.class
+org\appiumProject\TestUtils\ExtentReporterNG.class
+org\AppiumTestCases\eCommerce_TC8_extentreport3.class
+org\AppiumTestCases\eCommerce_TC6_JsonDataprovider2.class
+org\AppiumTestCases\eCommerce_TC7_Properties.class
+org\appiumProject\TestUtils\AppiumBaseTest3.class
+org\appiumProject\TestUtils\TestListeners.class
+org\appiumProject\TestUtils\IOSBaseTest.class
+org\AppiumTestCases\eCommerce_TC8_extentreport.class
+org\AppiumTestCases\eCommerce_TC1_TestDiffrntPage.class
+org\AppiumTestCases\eCommerce_TC2_AddItem.class
+org\AppiumTestCases\eCommerce_TC8_extentreport2.class
+org\appiumProject\TestUtils\AppiumBaseTest.class

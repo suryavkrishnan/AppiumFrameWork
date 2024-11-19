@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28260" started-at="2024-11-19T03:44:07Z" finished-at="2024-11-19T03:44:35Z">
+    <groups>
+      <group name="smoke">
+        <method signature="eCommerce_TC8_extentreport3.fillForm_ErrorValidation()[pri:0, instance:org.AppiumTestCases.eCommerce_TC8_extentreport3@32eff876]" name="fillForm_ErrorValidation" class="org.AppiumTestCases.eCommerce_TC8_extentreport3"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="28260" started-at="2024-11-19T03:44:07Z" finished-at="2024-11-19T03:44:35Z">
+      <class name="org.AppiumTestCases.eCommerce_TC8_extentreport3">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:org.AppiumTestCases.eCommerce_TC8_extentreport3@32eff876]" name="ConfigureAppium" is-config="true" duration-ms="13896" started-at="2024-11-19T03:44:07Z" finished-at="2024-11-19T03:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:org.AppiumTestCases.eCommerce_TC8_extentreport3@32eff876]" name="preSetup" is-config="true" duration-ms="3873" started-at="2024-11-19T03:44:21Z" finished-at="2024-11-19T03:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method status="PASS" signature="fillForm_ErrorValidation()[pri:0, instance:org.AppiumTestCases.eCommerce_TC8_extentreport3@32eff876]" name="fillForm_ErrorValidation" duration-ms="9847" started-at="2024-11-19T03:44:25Z" finished-at="2024-11-19T03:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm_ErrorValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.AppiumTestCases.eCommerce_TC8_extentreport3@32eff876]" name="tearDown" is-config="true" duration-ms="591" started-at="2024-11-19T03:44:35Z" finished-at="2024-11-19T03:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.AppiumTestCases.eCommerce_TC8_extentreport3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

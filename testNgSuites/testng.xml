@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.AppiumTestCases.eCommerce_TC6_JsonDataprovider2"/>
+      <class name="org.appiumProject.TestUtils.AppiumBaseTest"/>
+      <class name="org.AppiumTestCases.eCommerce_TC1_TestDiffrntPage"/>
+      <class name="org.AppiumTestCases.eCommerce_TC5_withDataprovider"/>
+      <class name="org.AppiumTestCases.eCommerce_TC3_SumITems"/>
+      <class name="org.appiumProject.TestUtils.IOSBaseTest"/>
+      <class name="org.appiumProject.TestUtils.AppiumBaseTest2"/>
+      <class name="org.AppiumTestCases.eCommerce_TC7_Properties"/>
+      <class name="org.appiumProject.TestUtils.AppiumBaseTest3"/>
+      <class name="org.AppiumTestCases.eCommerce_TC8_extentreport"/>
+      <class name="org.AppiumTestCases.eCommerce_TC2_AddItem"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

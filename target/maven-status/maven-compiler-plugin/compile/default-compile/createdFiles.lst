@@ -1,0 +1,6 @@
+org\PageObject\CartPage.class
+org\PageObject\FormPage.class
+org\Utils\AndroidActions.class
+org\PageObject\ProductCatalogPage.class
+org\Utils\AppiumUtils$1.class
+org\Utils\AppiumUtils.class
